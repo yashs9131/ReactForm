@@ -1,12 +1,12 @@
 body {
-  font-family: 'Gentium Plus', serif;
+  font-family: 'Charis SIL', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(90deg, rgba(50,177,210,1) 48%, rgba(9,100,215,1) 100%);
 }
 
 code {
-  font-family: 'Gentium Plus', serif;
+  font-family: 'Charis SIL', serif;
 }
 
 h1 {
